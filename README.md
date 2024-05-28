@@ -3,7 +3,7 @@
 ## Table of contents
 - [Executive Summary](#executive-summary)
 - [System initiation](#system-initiation)
-  - [Ishikawa (Fishbone) Diagram](#ishikawa-(Fishbone)-diagram)
+  - [Ishikawa (Fishbone) Diagram](#ishikawa-(fishbone)-diagram)
   - [Problem Analysis](#problem-analysis)
 - [Systems Analysis](#systems-analysis)
 - [People (Staff)](#People-(staff))
