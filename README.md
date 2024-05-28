@@ -1,4 +1,4 @@
-# -System-Analysis-and-Digitalization-of-Warehouse
+# System-Analysis-and-Digitalization-of-Warehouse
 
 ## Table of contents
 - [Executive Summary](#executive-summary)
