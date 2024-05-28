@@ -48,7 +48,7 @@ To keep data organized in place and constantly up to date, there should be a dat
 A point of sale (POS) system is the software and hardware that facilitate sales, accept payment, and check customer records. This allows the company to manage all the transitions, have a detailed list of their customers, and track their inventory and sales. After searching, we found that would be the best platform to host the Point of sale of Mr. Smith Johnson's company.
 
 ![Fig 3 1 ](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/2d018fc6-97ec-4e2e-99a2-e0ef9204badc)
- Figure 3.1 
+Figure 3.1 
 
 Lightspeed is a point-of-sale system that provides software and hardware options to retail stores, restaurants, and others.  They propose one unified solution for online and in-person retail which consists of selling online and off, simplifying the back office, and managing inventory and suppliers. In the case of Mr. Smith Johnson, their system will be used in inventory management by tracking inventory levels in real-time and receiving notifications when some of his products are running low. This will assist him in avoiding backorders and stock outs, as well as determining which products are selling slowly or quickly. This POS system can help Mr. Johnson with sales reporting. It will track his sales, product category, and product location and allow him to make more informed decisions regarding his business. Lightspeed POS will keep track of the customer’s information and their purchase history. This will assist him in the identification of his best customers to provide them with targeted discounts or promotions. This feature could also be used to develop personalized marketing campaigns to appeal to his customers. Lightspeed POD supports multichannel sales, which include in-store, online, and mobile. This presents an opportunity for Mr. Johnson to reach more customers and increase his sales if he decides to sell his product through multiple channels.  Overall, Lightspeed POS could help him improve his customer experience, modernize his streamlined operation, and increase his sales. On the other hand, there are also potential downsides in the implementation of the Lightspeed Point of Sale system. These downsides include the budget necessary to implement the smooth work of the system. Furthermore, if Mr. Johnson is unfamiliar with software and technology, he might find the system customization and setup difficult and time-consuming.
 
@@ -71,29 +71,23 @@ Systems software serves as the basis for infrastructure software, which manages 
 
 - Inventory Management software: Inventory management software is necessary for Mr. Johnson since he has a lot of products in his warehouse and wants to make sure that none of them are hanging around in excess. He can keep track of inventory levels, predict demand, and simplify the purchasing process by putting in place an inventory management system. TradeGecko, Skubana, and Zoho Inventory are a few well-liked solutions for inventory management software.
 
-
-
-
+![TradeGecko](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/631ef370-2c95-43cc-abfa-e13a66cb7f65)
 Figure 3.4
 
 -       Accounting software: Manually maintaining financial records can be time-consuming and error-prone. Mr. Johnson can automate bookkeeping processes like invoicing, costs, and payroll by implementing accounting software. Popular accounting software alternatives that can be tailored to Mr. Johnson's company's needs include QuickBooks, Xero, and FreshBooks.
 
-
-
-
-
+![Quickbooks](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/c72aaca9-5e0b-4404-abfc-87b78353504e)
 Figure 3.5
 
 -       Point of Sale software: Mr. Johnson can manage transactions more effectively with the use of a POS system by processing payments, monitoring sales, and controlling inventory levels. Popular POS software solutions with capabilities like inventory management, customer tracking, and sales analytics include Lightspeed POS, Square, and Shopify POS.
 
-
-
-
+![Shopify ](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/46631e57-639a-466d-8bac-d8ce39f30d16)
+Figure 3.6
 
 -       Marketing Automation software: Mr. Johnson might use marketing automation tools to develop and manage email campaigns, social media marketing, and targeted promotions to boost sales and customer engagement. Popular marketing automation software choices like HubSpot Marketing, Marketo, and Mailchimp can assist automate repetitive operations and improve marketing strategy.
 
-
-
+![Hubspot](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/0af51d61-61a9-4126-b12d-a899afc4a9ab)
+Figure 3.7
 
 
 Using these software options will help Mr. Johnson's company become more productive overall, enhance customer service, and boost sales. It is crucial to select software that fits the unique requirements of the company and to guarantee that the team has received the necessary training to operate it efficiently.
