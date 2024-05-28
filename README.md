@@ -3,7 +3,7 @@
 ## Table of contents
 - [Executive Summary](#executive-summary)
 - [System initiation](#system-initiation)
-  - [Ishikawa (Fishbone) Diagram](#ishikawa-(fishbone)-diagram)
+  - [Ishikawa or Fishbone Diagram](#ishikawa-or-fishbone-diagram)
   - [Problem Analysis](#problem-analysis)
 - [Systems Analysis](#systems-analysis)
 - [People (Staff)](#People-(staff))
@@ -19,7 +19,7 @@ When Mr. Smith Johnson started his company ten years ago, he only had 50 custome
 Despite all this increase in numbers, Mr. Smith Johnson still uses his old manual bookkeeping. This has led his distributorship to have some business issues, such as out-of-date customer records, an increase in the number of orders resulting in manual processing difficulties, a lack of inventory management, and missed market opportunities. Also. The concept of manually processing orders and checking customer balances is also slowing business growth. These issues are causing sales and income losses, while Mr. Johnson wants to increase his profit by making distribution more efficient and long-lasting. With the technology and digital innovation existing today, he can have a computerized system to help him handle his business better and keep up with his increasing demand. 
 
 ## System initiation
-### Ishikawa (Fishbone) Diagram
+### Ishikawa or Fishbone Diagram
 
 ![SYS analysis ](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/13dd0e44-8d0c-45cb-8a0a-514570037047)
 
