@@ -140,8 +140,6 @@ Using a Lightspeed Commerce Point of Sale system linked with BDO Digital's consu
 2.	Lightspeed- https://www.lightspeedhq.com/ 
 3.	 XPS Desktop - https://www.dell.com/en-us/shop/desktop-computers/xps-desktop/spd/xps-8950-desktop/smx8950w11ph117947?gacd=9684992-1096-5761040-350588223-0&dgc=st&gclid=Cj0KCQiArsefBhCbARIsAP98hXSMMhy5CwPDvRnrK6wQNm3lAq0tQX_btGFRNd4r_h-PDFFs_JkDSjIaAja4EALw_wcB&gclsrc=aw.ds&nclid=k77ce34vMm-_ojsojpLdIpq7JiigTKWYG3KZrMSxFvHjgzqS4c8AOtRETiOvdOck 
 4.	 Apple - 27" iMac® - https://www.bestbuy.com/site/apple-27-imac-with-retina-5k-display-latest-model-intel-core-i7-3-8ghz-8gb-memory-512gb-ssd-silver/6200723.p?skuId=6200723&ref=212&loc=1&extStoreId=1129&ref=212&loc=1&&&gclid=Cj0KCQiArsefBhCbARIsAP98hXT3cN2GI85uBHiDzsFLflssSpfdWbWacOmbSfnfDStfcKydaNC_Zy0aAk6VEALw_wcB&gclsrc=aw.ds
-![image](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/0abc1cdf-f487-4186-a92f-56077d734db2)
-
 
 
 
