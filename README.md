@@ -4,6 +4,7 @@
 - [Executive Summary](#executive-summary)
 - [System initiation](#system-initiation)
   - [Ishikawa (Fishbone) Diagram](#ishikawa-(Fishbone)-diagram)
+  - [Problem Analysis](#problem-analysis)
 - [Systems Analysis](#systems-analysis)
 - [People (Staff)](#People-(staff))
 - [Solution](#solution)
