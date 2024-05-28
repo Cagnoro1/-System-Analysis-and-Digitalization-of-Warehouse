@@ -12,6 +12,7 @@
   - [Hardware](#hardware)
 - [People (Staff)](#People-(staff))
 - [Solution](#solution)
+- [Cost and Benefit Analysis](#cost-and-benefit-analysis)
 - [References](#references)
 
 
@@ -127,13 +128,13 @@ For the personnel to make the most of the new gear and software to accomplish bu
 
 Last but not least, the cost-benefit analysis shows that the long-term return on investment for the new hardware, software, and employee training will be positive. Mr. Johnson's company will be able to run more smoothly and make more money because of improved inventory management, quicker sales processing, and improved customer involvement.
 
-### Cost and Benefit Analysis
+## Cost and Benefit Analysis
 
 Using a Lightspeed Commerce Point of Sale system linked with BDO Digital's consulting services could assist Mr. Johnson solve his problem by streamlining his business operations and increasing efficiency. This would entail investing in hardware, such as the Apple iMac Pro or the Dell XPS Desktop, as well as hiring and educating knowledgeable personnel to manage the computer systems. To ascertain whether this option is financially feasible, a cost-benefit analysis should be done.
 
 ![Product pi ](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/6109ce30-1ca4-42de-8001-c4f80bb61ff4)
 
-### References
+## References
 
 1.	BDO Digital - https://www.bdodigital.com/ 
 2.	Lightspeed- https://www.lightspeedhq.com/ 
