@@ -5,7 +5,11 @@
 - [System initiation](#system-initiation)
   - [Ishikawa or Fishbone Diagram](#ishikawa-or-fishbone-diagram)
   - [Problem Analysis](#problem-analysis)
+  - [Scope and Goal](#scope-and-Goal)
 - [Systems Analysis](#systems-analysis)
+  - [Procedure](#procedure)
+  - [Point of Sale Systems](#point-of-sale-systems)
+  - [Hardware](#hardware)
 - [People (Staff)](#People-(staff))
 - [Solution](#solution)
 - [References](#references)
@@ -47,7 +51,7 @@ Generally speaking, BDO Digital LLC.  can assist Mr. Smith Johnson in improving
 ### Procedure 
 To keep data organized in place and constantly up to date, there should be a database implementation with access to the internet (cloud-based storage). These changes will involve the implementation of a new system hardware system including mainly a desktop computer and a point-of-sale system.  This is where Mr. Smith Johnson’s business processing system will drastically be transformed from physical paper to a digital system and it will ensure smooth operations.
 
-### Point of sale systems 
+### Point of Sale Systems 
 A point of sale (POS) system is the software and hardware that facilitate sales, accept payment, and check customer records. This allows the company to manage all the transitions, have a detailed list of their customers, and track their inventory and sales. After searching, we found that would be the best platform to host the Point of sale of Mr. Smith Johnson's company.
 
 ![Fig 3 1 ](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/2d018fc6-97ec-4e2e-99a2-e0ef9204badc)
@@ -55,7 +59,7 @@ Figure 3.1
 
 Lightspeed is a point-of-sale system that provides software and hardware options to retail stores, restaurants, and others.  They propose one unified solution for online and in-person retail which consists of selling online and off, simplifying the back office, and managing inventory and suppliers. In the case of Mr. Smith Johnson, their system will be used in inventory management by tracking inventory levels in real-time and receiving notifications when some of his products are running low. This will assist him in avoiding backorders and stock outs, as well as determining which products are selling slowly or quickly. This POS system can help Mr. Johnson with sales reporting. It will track his sales, product category, and product location and allow him to make more informed decisions regarding his business. Lightspeed POS will keep track of the customer’s information and their purchase history. This will assist him in the identification of his best customers to provide them with targeted discounts or promotions. This feature could also be used to develop personalized marketing campaigns to appeal to his customers. Lightspeed POD supports multichannel sales, which include in-store, online, and mobile. This presents an opportunity for Mr. Johnson to reach more customers and increase his sales if he decides to sell his product through multiple channels.  Overall, Lightspeed POS could help him improve his customer experience, modernize his streamlined operation, and increase his sales. On the other hand, there are also potential downsides in the implementation of the Lightspeed Point of Sale system. These downsides include the budget necessary to implement the smooth work of the system. Furthermore, if Mr. Johnson is unfamiliar with software and technology, he might find the system customization and setup difficult and time-consuming.
 
-### Hardware- Computer Desktop
+### Hardware
 Several factors must be considered when determining the appropriate hardware for Mr. Johnson’s Business. This includes the size of the business, the type of users (employees), the type of software that will be used, and the specific needs of the business. The computer desktops that we propose are known for their reliability and high performance.
 
 ![FIG 3 2 png](https://github.com/Cagnoro1/-System-Analysis-and-Digitalization-of-Warehouse/assets/135088212/232f5c72-545e-46f5-92ab-da2e7bf0a09e)
